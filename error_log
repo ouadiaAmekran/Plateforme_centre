@@ -1,0 +1,1237 @@
+[23-Jul-2024 11:02:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:04:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:04:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:23:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:30:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:31:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:31:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:31:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:31:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 11:33:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 169
+[23-Jul-2024 11:45:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 12:16:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 12:29:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 12:29:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:07:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:23:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 169
+[23-Jul-2024 14:32:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:35:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:35:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:35:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:35:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:39:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:39:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:39:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:44:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 14:44:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[23-Jul-2024 14:46:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[23-Jul-2024 14:46:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[23-Jul-2024 14:46:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[23-Jul-2024 14:48:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[23-Jul-2024 14:48:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[23-Jul-2024 14:52:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[23-Jul-2024 14:53:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[23-Jul-2024 22:12:08 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:12:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:12:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:12:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:12:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:13:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:13:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:13:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:14:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:14:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:15:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:15:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:15:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Jul-2024 22:19:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:18:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 169
+[24-Jul-2024 14:18:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:18:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:18:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:19:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:19:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[24-Jul-2024 14:19:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[24-Jul-2024 14:19:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[24-Jul-2024 14:19:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[24-Jul-2024 14:19:38 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[24-Jul-2024 14:19:45 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[24-Jul-2024 14:19:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:28 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[24-Jul-2024 14:20:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 14:20:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[24-Jul-2024 21:04:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 169
+[25-Jul-2024 15:33:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[25-Jul-2024 15:33:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[25-Jul-2024 15:33:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[25-Jul-2024 15:34:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[26-Jul-2024 12:51:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[26-Jul-2024 13:55:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[26-Jul-2024 13:55:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[26-Jul-2024 13:55:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[26-Jul-2024 14:02:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[26-Jul-2024 14:06:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[26-Jul-2024 14:07:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[26-Jul-2024 14:07:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[26-Jul-2024 14:07:38 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[26-Jul-2024 14:07:38 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[26-Jul-2024 14:07:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 02:14:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 18:08:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 18:08:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 18:08:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 18:08:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[27-Jul-2024 18:53:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 10
+[27-Jul-2024 18:53:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[27-Jul-2024 18:59:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 18:59:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/certificats.php on line 16
+[27-Jul-2024 18:59:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 18:59:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:03:29 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 180
+[27-Jul-2024 19:03:32 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 180
+[27-Jul-2024 19:03:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:05:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:06:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:06:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 152
+[27-Jul-2024 19:07:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:07:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 152
+[27-Jul-2024 19:08:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:08:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:09:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:10:03 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:10:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:10:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:34:25 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 169
+[27-Jul-2024 19:35:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:35:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:35:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:35:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:35:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:35:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 151
+[27-Jul-2024 19:35:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:35:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 151
+[27-Jul-2024 19:36:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[27-Jul-2024 19:36:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[27-Jul-2024 19:41:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 40
+[27-Jul-2024 19:41:28 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 40
+[27-Jul-2024 19:45:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:50:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:50:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:51:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:51:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 19:51:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:21:58 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[27-Jul-2024 21:29:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 151
+[27-Jul-2024 21:29:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:29:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 151
+[27-Jul-2024 21:30:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:30:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 151
+[27-Jul-2024 21:32:15 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:33:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:33:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:33:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 21:33:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/edit_certificat.php on line 9
+[27-Jul-2024 21:33:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:22:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:22:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:22:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:22:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:22:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 159
+[27-Jul-2024 22:22:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:29:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 159
+[27-Jul-2024 22:29:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:36:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 159
+[27-Jul-2024 22:36:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:36:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:36:22 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 34
+[27-Jul-2024 22:36:22 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 34
+[27-Jul-2024 22:36:22 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 34
+[27-Jul-2024 22:36:22 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 44
+[27-Jul-2024 22:36:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 159
+[27-Jul-2024 22:36:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:36:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:36:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:36:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:37:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:37:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:37:04 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 34
+[27-Jul-2024 22:37:04 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 34
+[27-Jul-2024 22:37:04 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 34
+[27-Jul-2024 22:37:04 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 44
+[27-Jul-2024 22:38:03 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:38:03 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:38:03 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:38:03 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:38:03 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[27-Jul-2024 22:38:07 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:38:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:38:10 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:38:10 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:38:10 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:38:10 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[27-Jul-2024 22:38:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:39:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:39:02 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:39:02 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:39:02 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 33
+[27-Jul-2024 22:39:02 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[27-Jul-2024 22:44:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:44:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:44:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/edit_certificat.php on line 9
+[27-Jul-2024 22:44:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:45:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[27-Jul-2024 22:45:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[27-Jul-2024 22:48:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:48:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:48:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 13
+[27-Jul-2024 22:48:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:48:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 13
+[27-Jul-2024 22:49:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:49:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:49:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:49:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:49:59 UTC] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home/handbyje/public_html/projetstage/resultats.php on line 19
+[27-Jul-2024 22:50:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:50:11 UTC] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home/handbyje/public_html/projetstage/resultats.php on line 19
+[27-Jul-2024 22:51:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:51:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:51:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 13
+[27-Jul-2024 22:52:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:52:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:52:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:52:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:52:28 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 22:52:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 13
+[27-Jul-2024 23:02:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:02:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:02:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:02:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 13
+[27-Jul-2024 23:02:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:02:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 13
+[27-Jul-2024 23:03:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:03:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[27-Jul-2024 23:04:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:04:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:04:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:04:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:04:44 UTC] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home/handbyje/public_html/projetstage/resultats.php on line 16
+[27-Jul-2024 23:05:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:05:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:05:15 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:05:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:05:22 UTC] PHP Notice:  Undefined property: PDOStatement::$num_rows in /home/handbyje/public_html/projetstage/resultats.php on line 17
+[27-Jul-2024 23:11:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:11:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:11:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:12:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:12:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 12
+[27-Jul-2024 23:13:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/resultats.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 17
+[27-Jul-2024 23:15:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:15:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:15:52 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 35
+[27-Jul-2024 23:15:52 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 35
+[27-Jul-2024 23:15:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 35
+[27-Jul-2024 23:15:52 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[27-Jul-2024 23:16:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[27-Jul-2024 23:18:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:19:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:21:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:21:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:23:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:23:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:24:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:25:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:31:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:35:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:35:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:36:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:39:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Jul-2024 23:39:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 11:11:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 11:57:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 11:59:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 11:59:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:01:37 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 159
+[28-Jul-2024 12:01:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:01:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:02:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:02:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:02:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:05:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:05:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:06:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:13:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:14:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:14:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:14:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:14:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:14:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:14:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:18:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:22:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:28:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:29:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:31:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:34:08 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:38:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:40:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:42:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:42:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:43:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:44:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:45:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:48:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:50:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:50:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:50:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:51:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:53:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:53:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:55:03 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:55:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:56:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:56:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:58:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 12:59:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:01:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:01:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:01:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:03:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:06:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:10:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:10:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:10:26 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:10:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:10:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:14:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:14:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 13:14:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:14:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:15:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:15:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:15:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 13:15:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:15:28 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:15:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:15:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/edit_certificat.php on line 9
+[28-Jul-2024 13:15:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:15:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 159
+[28-Jul-2024 13:15:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 13:59:44 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[28-Jul-2024 13:59:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:00:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[28-Jul-2024 14:00:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:00:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[28-Jul-2024 14:00:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:08:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:08:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:08:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:08:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 14:08:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:08:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 14:08:28 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:08:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:09:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:11:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:11:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 14:44:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:44:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:20 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:20 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:20 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:20 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:24 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:24 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:24 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:24 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:28 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:28 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:28 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:28 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:28 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:29 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:30 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:31 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:32 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:33 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:33 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:33 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:33 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:34 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:34 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:34 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:34 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:34 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:34 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:34 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:34 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:52 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:52 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:52 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:52 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:44:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/resultats.php on line 14
+[28-Jul-2024 14:44:58 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:58 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:58 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 43
+[28-Jul-2024 14:44:58 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 53
+[28-Jul-2024 14:51:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 14:51:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:51:23 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 24
+[28-Jul-2024 14:51:23 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 24
+[28-Jul-2024 14:51:23 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 24
+[28-Jul-2024 14:51:23 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 36
+[28-Jul-2024 14:51:27 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 24
+[28-Jul-2024 14:51:27 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 24
+[28-Jul-2024 14:51:27 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 24
+[28-Jul-2024 14:51:27 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 36
+[28-Jul-2024 14:53:00 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:53:00 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:53:00 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:53:00 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 55
+[28-Jul-2024 14:53:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 14:53:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:53:11 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 14:53:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:53:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:53:22 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:53:22 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:53:22 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:53:22 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 55
+[28-Jul-2024 14:59:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 14:59:15 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:59:15 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:59:15 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 45
+[28-Jul-2024 14:59:15 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 55
+[28-Jul-2024 15:01:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:01:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:01:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:01:59 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:01:59 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:01:59 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:01:59 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 56
+[28-Jul-2024 15:02:05 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:02:05 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:02:05 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:02:05 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 56
+[28-Jul-2024 15:05:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:06:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:06:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:06:09 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:09 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:09 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:09 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 56
+[28-Jul-2024 15:06:13 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:13 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:13 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:13 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 56
+[28-Jul-2024 15:06:45 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:45 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:45 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 40
+[28-Jul-2024 15:06:45 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 56
+[28-Jul-2024 15:08:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:08:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:08:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:08:38 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 44
+[28-Jul-2024 15:08:38 UTC] PHP Warning:  include(phpqrcode-master/phpqrcode.php): failed to open stream: No such file or directory in /home/handbyje/public_html/projetstage/resultats.php on line 44
+[28-Jul-2024 15:08:38 UTC] PHP Warning:  include(): Failed opening 'phpqrcode-master/phpqrcode.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/handbyje/public_html/projetstage/resultats.php on line 44
+[28-Jul-2024 15:08:38 UTC] PHP Fatal error:  Uncaught Error: Class 'QRcode' not found in /home/handbyje/public_html/projetstage/resultats.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/resultats.php on line 60
+[28-Jul-2024 15:14:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:14:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 15:14:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:14:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:16:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:16:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:16:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:16:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:17:15 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:18:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:22:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 155
+[28-Jul-2024 15:22:51 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 15:22:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 16:37:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 19:51:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 19:51:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 19:51:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 19:51:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 21:35:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 21:36:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 21:36:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 21:36:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 21:42:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 21:46:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 23:31:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[28-Jul-2024 23:31:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Jul-2024 23:48:29 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[28-Jul-2024 23:48:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 09:02:56 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 09:02:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:25:13 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 11:25:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:39:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 11:39:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:39:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 11:39:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:40:01 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 11:40:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:40:05 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 11:40:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:40:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:40:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:40:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:40:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 207
+[29-Jul-2024 11:40:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:41:07 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:41:12 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 207
+[29-Jul-2024 11:41:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:57:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:57:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:58:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 207
+[29-Jul-2024 11:58:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:58:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 11:58:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 12:40:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 12:41:07 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 12:41:07 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 12:41:17 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 233
+[29-Jul-2024 12:41:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 12:50:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:05:32 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 233
+[29-Jul-2024 13:05:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/handbyje/public_html/projetstage/rechercher.php:1) in /home/handbyje/public_html/projetstage/rechercher.php on line 237
+[29-Jul-2024 13:06:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 233
+[29-Jul-2024 13:06:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/handbyje/public_html/projetstage/rechercher.php:1) in /home/handbyje/public_html/projetstage/rechercher.php on line 237
+[29-Jul-2024 13:10:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:10:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:10:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:11:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:17:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:17:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:17:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:18:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:18:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:18:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:18:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:18:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:21:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:21:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:21:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:22:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:22:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:23:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:25:38 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:25:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:25:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:25:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:25:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:25:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:25:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:42:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:42:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:43:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:43:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:43:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:43:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:45:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:45:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:45:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:45:26 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:45:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:45:38 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:45:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:46:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:46:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:46:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:46:06 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:46:08 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:46:13 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:46:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:46:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:46:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:46:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:46:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:46:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:47:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:47:07 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:50:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:50:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:50:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:52:53 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:52:55 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 13:53:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:55:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:58:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 13:58:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:58:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 13:58:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 13:59:26 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 13:59:26 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:01:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 14:01:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:01:41 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 14:01:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:01:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 14:01:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:02:00 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:02:35 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 14:02:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:02:48 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[29-Jul-2024 14:02:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:04:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 219
+[29-Jul-2024 14:04:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:05:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:06:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/rechercher.php on line 217
+[29-Jul-2024 14:06:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:10:05 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 14:10:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 14:10:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:10:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:10:28 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 14:10:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:10:33 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 14:11:20 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 14:14:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:15:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:15:15 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:15:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:15:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[29-Jul-2024 14:17:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:35:16 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 14:36:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:36:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:36:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:36:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:36:45 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 14:36:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:37:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:37:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 14:37:07 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 15:11:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 15:11:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 15:14:01 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 15:14:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 15:15:08 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 15:15:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 15:15:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 15:15:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 16:56:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 16:56:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 16:56:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 16:56:59 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[29-Jul-2024 16:57:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 17:11:08 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 17:11:33 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 17:11:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[29-Jul-2024 21:54:21 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[29-Jul-2024 21:54:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 01:12:10 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 01:12:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:25:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 10:25:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:25:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:25:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:25:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:25:58 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 10:34:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:35:15 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 10:36:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 10:36:51 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:36:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:39:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:39:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:40:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:42:26 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:42:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:43:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:44:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:48:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:48:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 10:58:51 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/handbyje/public_html/projetstage/rechercher.php on line 38
+[30-Jul-2024 11:03:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:03:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::real_escape_string() in /home/handbyje/public_html/projetstage/rechercher.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/handbyje/public_html/projetstage/rechercher.php on line 12
+[30-Jul-2024 11:06:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:06:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:07:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:07:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:30:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:32:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:32:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:07 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:33:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:52 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:33:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:33:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:33:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:34:02 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:34:02 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:46:23 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:46:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:49:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:49:28 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:51:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:51:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:52:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:52:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:52:49 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:52:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:52:53 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:52:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:52:58 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:52:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:54:20 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:54:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 11:56:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 11:56:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:11:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[30-Jul-2024 12:11:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:12:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[30-Jul-2024 12:12:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:12:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[30-Jul-2024 12:12:59 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:19:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[30-Jul-2024 12:19:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:23:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[30-Jul-2024 12:23:47 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:24:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:25:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:25:01 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:25:05 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:25:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:25:51 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:25:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:34:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[30-Jul-2024 12:34:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:36:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:36:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:43:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 12:43:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:43:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 12:43:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:44:04 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 12:44:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:44:30 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 12:44:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:45:08 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:48:45 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 12:48:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:50:46 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 170
+[30-Jul-2024 12:50:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:52:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:52:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:52:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:52:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:53:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:54:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:54:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:55:26 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:55:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 12:58:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:05:54 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 171
+[30-Jul-2024 13:05:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:06:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:06:38 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:06:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:06:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:07:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:07:51 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:07:55 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/handbyje/public_html/projetstage/recherche_user.php on line 171
+[30-Jul-2024 13:07:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:21:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:21:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:21:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:21:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:22:06 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[30-Jul-2024 13:22:16 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[30-Jul-2024 13:22:42 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 153
+[30-Jul-2024 13:31:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 235
+[30-Jul-2024 13:31:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:31:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 235
+[30-Jul-2024 13:32:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 235
+[30-Jul-2024 13:57:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 13:57:08 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 13:57:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 13:58:05 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 14:01:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:04:15 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:04:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:04:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:04:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:04:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:04:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:05:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:05:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:08:07 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:08:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:08:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:08:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:08:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:09:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:09:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:09:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:09:56 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:10:03 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:12:08 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:12:18 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:12:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:12:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:12:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:13:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 242
+[30-Jul-2024 14:14:50 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 14:14:53 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:14:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 14:15:07 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 14:15:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:15:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 14:16:14 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[30-Jul-2024 14:17:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:17:21 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:17:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:17:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/handbyje/public_html/projetstage/rechercher.php on line 236
+[30-Jul-2024 14:20:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:20:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:20:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:20:23 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:20:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:20:32 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:20:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/rechercher.php on line 152
+[30-Jul-2024 14:27:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[30-Jul-2024 14:27:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[30-Jul-2024 14:38:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:38:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:38:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:38:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:39:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:39:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:39:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:39:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:39:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:39:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:42:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:43:13 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:45:17 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:47:38 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:47:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:47:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:47:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:47:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:47:58 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:48:20 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:50:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:50:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:50:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:50:42 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:50:48 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:51:06 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:51:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:51:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:51:16 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:51:49 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:52:26 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 232
+[30-Jul-2024 14:52:30 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:52:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:52:34 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 14:52:36 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Jul-2024 15:02:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[31-Jul-2024 22:50:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 13:09:29 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 254
+[01-Aug-2024 13:24:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 13:24:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 13:24:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 13:24:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 13:25:19 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[01-Aug-2024 13:27:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[01-Aug-2024 13:27:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 248
+[01-Aug-2024 13:33:44 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 13:34:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[01-Aug-2024 20:37:41 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:01:45 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:07:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:10:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:10:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:11:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:11:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:11:55 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 21:11:57 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[01-Aug-2024 23:12:10 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[03-Aug-2024 12:59:46 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[03-Aug-2024 13:17:27 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[03-Aug-2024 13:17:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[03-Aug-2024 13:17:37 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[03-Aug-2024 13:17:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[03-Aug-2024 13:18:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 249
+[03-Aug-2024 13:26:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 254
+[03-Aug-2024 13:28:25 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 254
+[03-Aug-2024 13:28:33 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 254
+[03-Aug-2024 13:28:54 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/recherche_user.php on line 254
+[05-Aug-2024 11:18:04 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Aug-2024 09:43:11 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Aug-2024 23:36:40 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[08-Aug-2024 11:36:39 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[08-Aug-2024 11:36:51 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[08-Aug-2024 11:36:52 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[08-Aug-2024 11:37:22 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/rechercher.php on line 230
+[09-Aug-2024 13:58:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Aug-2024 09:37:12 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Aug-2024 17:07:24 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Aug-2024 17:07:26 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Aug-2024 17:07:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Aug-2024 17:07:43 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Aug-2024 17:07:50 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[12-Aug-2024 17:57:09 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[12-Aug-2024 17:59:31 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[14-Aug-2024 11:33:35 UTC] PHP Notice:  Undefined variable: port in /home/handbyje/public_html/projetstage/database.php on line 11
+[14-Aug-2024 16:58:52 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[14-Aug-2024 22:03:19 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[15-Aug-2024 20:21:39 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[15-Aug-2024 23:44:40 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[17-Aug-2024 02:24:01 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[17-Aug-2024 14:42:03 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:04:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:15:24 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:15:32 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:15:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:15:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:15:47 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:16:20 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:16:20 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:17:01 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:17:01 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/edit_certificat.php on line 9
+[20-Aug-2024 03:17:12 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:17:17 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:17:17 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[20-Aug-2024 03:18:11 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[22-Aug-2024 04:26:41 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/edit_certificat.php on line 9
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $certificat in /home/handbyje/public_html/projetstage/edit_certificat.php on line 134
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/handbyje/public_html/projetstage/edit_certificat.php on line 134
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $certificat in /home/handbyje/public_html/projetstage/edit_certificat.php on line 137
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/handbyje/public_html/projetstage/edit_certificat.php on line 137
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $certificat in /home/handbyje/public_html/projetstage/edit_certificat.php on line 141
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/handbyje/public_html/projetstage/edit_certificat.php on line 141
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $certificat in /home/handbyje/public_html/projetstage/edit_certificat.php on line 145
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/handbyje/public_html/projetstage/edit_certificat.php on line 145
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $certificat in /home/handbyje/public_html/projetstage/edit_certificat.php on line 149
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/handbyje/public_html/projetstage/edit_certificat.php on line 149
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Undefined variable $certificat in /home/handbyje/public_html/projetstage/edit_certificat.php on line 153
+[22-Aug-2024 05:23:35 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/handbyje/public_html/projetstage/edit_certificat.php on line 153
+[22-Aug-2024 07:59:47 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[22-Aug-2024 22:59:53 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[23-Aug-2024 10:05:58 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[25-Aug-2024 09:28:25 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[25-Aug-2024 10:47:38 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Aug-2024 12:11:29 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Aug-2024 16:03:40 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[30-Aug-2024 23:32:29 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[03-Sep-2024 04:04:22 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[04-Sep-2024 06:12:39 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[05-Sep-2024 16:02:46 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[05-Sep-2024 16:02:58 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[05-Sep-2024 16:02:58 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[05-Sep-2024 16:03:19 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 12:39:37 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 12:39:47 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 12:39:47 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 12:39:51 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 16:48:57 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 22:58:33 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 22:58:34 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 22:58:57 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 22:58:59 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[07-Sep-2024 22:59:04 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[08-Sep-2024 14:14:38 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[09-Sep-2024 07:33:05 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Sep-2024 21:59:44 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Sep-2024 21:59:53 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Sep-2024 22:00:06 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Sep-2024 22:00:06 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Sep-2024 22:00:31 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[10-Sep-2024 23:55:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[15-Sep-2024 14:04:23 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:56:37 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:56:47 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:56:47 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:56:52 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:57:55 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:57:56 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:58:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:58:35 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[18-Sep-2024 21:59:28 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/recherche_user.php on line 254
+[18-Sep-2024 21:59:41 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/recherche_user.php on line 254
+[18-Sep-2024 22:36:00 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[19-Sep-2024 01:02:33 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[27-Sep-2024 00:57:08 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
+[28-Sep-2024 07:14:36 UTC] PHP Warning:  Undefined variable $port in /home/handbyje/public_html/projetstage/database.php on line 11
